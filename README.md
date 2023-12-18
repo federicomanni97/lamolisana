@@ -47,4 +47,16 @@ npm install --save @fortawesome/fontawesome-free
 '~@fortawesome': path.resolve(__dirname, 'node_modules/@fortawesome'),
 
 #copio la cartella dei webfonts dentro resources
+
+#creo nuova repo su github da template
+
+#clono la repo da vscode 
+
+composer install
+
+#copia e rinomina file .env.example in .env
+
+php artisan key:generate
+
+npm install
 ```
